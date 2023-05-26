@@ -6,8 +6,6 @@ Este projeto é uma página HTML simples que aborda a LGPD - Lei Geral de Prote�
 
 O projeto consiste em um arquivo HTML que utiliza as tags semânticas para estruturar o conteúdo do artigo. O artigo é dividido em sessões, abordando cada tópico proposto.
 
-A página utiliza uma paleta de cores cuidadosamente escolhida para transmitir os conceitos desejados. A cor principal utilizada é o azul escuro `#003366`, que representa seriedade e confiança. O laranja `#F6A709` é a cor de destaque, utilizada para chamar a atenção O fundo da página é cinza claro `#F5F5F5`, criando um ambiente limpo e profissional.
-
 ## Como Utilizar o Projeto
 
 1. Faça o download dos arquivos do projeto em um diretório local.
